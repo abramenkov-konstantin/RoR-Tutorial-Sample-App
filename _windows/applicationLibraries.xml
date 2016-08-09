@@ -264,6 +264,16 @@
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.7/templates" />
       </SOURCES>
     </library>
+    <library name="bootstrap-will_paginate (v0.0.10, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/bootstrap-will_paginate-0.0.10/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/bootstrap-will_paginate-0.0.10/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/bootstrap-will_paginate-0.0.10/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/bootstrap-will_paginate-0.0.10/config" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.2, ruby-2.2.4-p230) [gem]">
       <CLASSES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/builder-3.2.2/lib" />
@@ -1680,6 +1690,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/websocket-extensions-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="will_paginate (v3.1.0, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/will_paginate-3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/will_paginate-3.1.0/lib" />
       </SOURCES>
     </library>
     <library name="win32console (v1.3.2, ruby-2.2.4-p230) [gem]">
