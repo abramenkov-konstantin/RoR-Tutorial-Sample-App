@@ -440,6 +440,14 @@
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="faker (v1.6.3, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/faker-1.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/faker-1.6.3/lib" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.9.14, ruby-2.2.4-p230) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.14" />
