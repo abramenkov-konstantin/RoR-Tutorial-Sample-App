@@ -6,6 +6,5 @@
       <auth-required>false</auth-required>
     </data-source>
     <data-source name="development" uuid="f4c09fad-2fdc-43ef-a549-caa341f877fc" />
-    <data-source name="development [2]" uuid="1cb02318-0672-41e4-ae17-72caa631fe88" />
   </component>
 </project>
